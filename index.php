@@ -197,8 +197,9 @@ DOR TSEL V2
 <span class="focus-input100"></span>
 </div>
 <div class="wrap-input100 validate-input" data-validate="Please enter your key">
-<input type="input100" type="text" name="key" placeholder="Key">
+<input class="input100" type="number" name="key" placeholder="Masukan key">
 <span class="focus-input100"></span>
+</div>
 </div>
 <div class="container-contact100-form-btn">
 <button class="a button button" name="do" value="GETOTP" type="submit">
