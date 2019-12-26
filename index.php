@@ -197,7 +197,7 @@ DOR TSEL V2
 <span class="focus-input100"></span>
 </div>
 <div class="wrap-input100 validate-input" data-validate="Please enter your key">
-<input type="input100" type="text" value="tppgaming" name="key" placeholder="Key">
+<input type="input100" type="text" name="key" placeholder="Key">
 <span class="focus-input100"></span>
 </div>
 <div class="container-contact100-form-btn">
