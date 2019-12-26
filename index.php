@@ -203,7 +203,7 @@ DOR TSEL V2
 <div class="container-contact100-form-btn">
 <button class="a button button" name="do" value="GETOTP" type="submit">
     <span>
-<i class="fa fa-code m-r-6" aria-hidden="true"></i>
+<i class="fa fa-rocket m-r-6" aria-hidden="true"></i>
 GET OTP
 </span></button>
 </div>
