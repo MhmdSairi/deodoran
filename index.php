@@ -21,7 +21,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 
 .button {
   background-color: transparent;
-  color: green;
+  color: black;
   border: 2px solid #020101;
   border-radius: 12px;
 }
@@ -31,7 +31,7 @@ a {
 
 .button:hover {
   background-color: #;
-  color: red;
+  color: black;
 }
 
 
