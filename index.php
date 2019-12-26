@@ -4,7 +4,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <head>
 <style>
 .button {
-  background-color: #030102; /* Green */
+  background-color: #030102; /* Black */
   border: none;
   color: black;
   padding: 16px 32px;
