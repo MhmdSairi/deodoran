@@ -27,4 +27,4 @@ switch (ENVIRONMENT)
 }
 
 
-define( 'privatekey', 'tppgaming' );
+define( 'privatekey', 'TEAMONTEAMINGV2' );
