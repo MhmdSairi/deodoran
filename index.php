@@ -197,7 +197,7 @@ DOR TSEL V2
 <span class="focus-input100"></span>
 </div>
 <div class="wrap-input100 validate-input" data-validate="Please enter your key">
-<input class="input100" type="number" name="key" placeholder="Masukan key">
+<input class="input100" type="text" name="key" placeholder="Masukan key">
 <span class="focus-input100"></span>
 </div>
 </div>
