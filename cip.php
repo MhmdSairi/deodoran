@@ -4,7 +4,7 @@ require_once('config.php');
 
 function cip_enc($str)
 {
-    $password = 'TEAMONTEAMINGV2';
+    $password = 'MACANTOTOL';
     $method = 'aes-256-cbc';
     $password = substr(hash('sha256', $password, true), 0, 32);
     $iv = chr(0x1) . chr(0x3) . chr(0x3) . chr(0x7) . chr(0x7) . chr(0x3) . chr(0x3) . chr(0x1) . chr(0x1) . chr(0x3) . chr(0x3) . chr(0x7) . chr(0x7) . chr(0x3) . chr(0x3) . chr(0x1);
@@ -13,7 +13,7 @@ function cip_enc($str)
 
 function cip_dec($str)
 {
-    $password = 'TEAMONTEAMINGV2';
+    $password = 'MACANTOTOL';
     $method = 'aes-256-cbc';
     $password = substr(hash('sha256', $password, true), 0, 32);
     $iv = chr(0x1) . chr(0x3) . chr(0x3) . chr(0x7) . chr(0x7) . chr(0x3) . chr(0x3) . chr(0x1) . chr(0x1) . chr(0x3) . chr(0x3) . chr(0x7) . chr(0x7) . chr(0x3) . chr(0x3) . chr(0x1);
