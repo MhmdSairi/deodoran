@@ -27,4 +27,4 @@ switch (ENVIRONMENT)
 }
 
 
-define( 'privatekey', 'TEAMONTEAMINGV2' );
+define( 'privatekey', 'MACANTOTOL' );
